@@ -8,15 +8,27 @@
 
 ---
 
-### 🧰 Data Analytics Toolbox
+### 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,mongodb,git,github,excel,matlab" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,sql,postgres,excel,googlesheets,powerbi,git,github,vscode,jupyter,matlab" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <strong>Also familiar with:</strong> Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Statistics, Data Cleaning, EDA
-</p>
+**Programming & Databases:**  
+Python, SQL, PostgreSQL  
+
+**Spreadsheets:**  
+Excel, Google Sheets  
+
+**Data Analysis & Visualization:**  
+NumPy, Pandas, Matplotlib, Seaborn, Power BI  
+
+**Core Skills:**  
+Data Cleaning, Reporting, Dashboarding, Analytical Thinking  
+
+**Developer Tools:**  
+Git, GitHub, VS Code, Jupyter Notebook
+
 
 ---
 
